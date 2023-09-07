@@ -17,4 +17,4 @@ A movie application made with Compose that shows the movies you are looking for 
 + # Output
 | Movie Screen | Movie Detail Screen |
 | --- | --- |
-<img src="screenshots\movieScreen.png" width=150/> <img src="screenshots\movieDetailScreen.png" width=150/>
+| <img src="screenshots\movieScreen.png" width=150/> | <img src="screenshots\movieDetailScreen.png" width=150/> |
